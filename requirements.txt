@@ -20,7 +20,7 @@ peewee==2.10.2
 peewee-async==0.5.12
 pluggy==0.8.1
 psycopg2-binary==2.7.7
-py==1.7.0
+py==1.10.0
 pymongo==3.7.2
 pytest==4.2.1
 requests==2.21.0
